@@ -1,4 +1,4 @@
 my:
- greeting: Welcome to Spring Boot Cloud Configuration
+ greeting: Welcome to Spring Boot Cloud Configuration management1
  list:
    values: apple,banana,mango
